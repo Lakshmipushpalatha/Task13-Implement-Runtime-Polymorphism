@@ -1,8 +1,6 @@
 # Task13-Implement-Runtime-Polymorphism
 java calculation
 
-# Task 13: Implement Runtime Polymorphism
-
 ## 1. Introduction
 Runtime Polymorphism is an important concept in Java Object-Oriented Programming (OOP).
 
